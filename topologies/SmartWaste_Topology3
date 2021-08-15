@@ -1,0 +1,1039 @@
+{
+    "nodes": [
+        {
+            "level": 2,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "AREA-GW-0",
+            "type": "FOG_DEVICE",
+            "mips": 2000,
+            "ram": 4000,
+            "downBw": 10000
+        },
+        {
+            "level": 2,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "AREA-GW-1",
+            "type": "FOG_DEVICE",
+            "mips": 2000,
+            "ram": 4000,
+            "downBw": 10000
+        },
+        {
+            "level": 2,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "AREA-GW-2",
+            "type": "FOG_DEVICE",
+            "mips": 2000,
+            "ram": 4000,
+            "downBw": 10000
+        },
+        {
+            "level": 2,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "AREA-GW-3",
+            "type": "FOG_DEVICE",
+            "mips": 2000,
+            "ram": 4000,
+            "downBw": 10000
+        },
+        {
+            "level": 2,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "AREA-GW-4",
+            "type": "FOG_DEVICE",
+            "mips": 2000,
+            "ram": 4000,
+            "downBw": 10000
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-1-0",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-1-1",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-1-2",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-1-3",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-1-4",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-0-0",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-0-1",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-0-2",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-0-3",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-0-4",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-2-0",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-2-1",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-2-2",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-2-3",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-2-4",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-3-0",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-3-1",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-3-2",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-3-3",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-3-4",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-4-0",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-4-1",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-4-2",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-4-3",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "sensorType": "ULTRASONIC",
+            "name": "ULTRASONIC-SENSOR-4-4",
+            "type": "SENSOR",
+            "distribution": 2,
+            "value": 10.0
+        },
+        {
+            "name": "SWITCH-0-0",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-0-1",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-0-2",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-0-3",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-0-4",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-1-0",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-1-1",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-1-2",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-1-3",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-1-4",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+
+        {
+            "name": "SWITCH-2-0",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-2-1",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-2-2",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-2-3",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-2-4",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-3-0",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-3-1",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-3-2",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-3-3",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-3-4",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-4-0",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-4-1",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-4-2",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-4-3",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "name": "SWITCH-4-4",
+            "type": "ACTUATOR",
+            "actuatorType": "SWITCH"
+        },
+        {
+            "level": 0,
+            "upBw": 100,
+            "ratePerMips": 0.001,
+            "name": "cloud",
+            "type": "FOG_DEVICE",
+            "mips": 20000,
+            "ram": 40000,
+            "downBw": 10000
+        },
+        {
+            "level": 1,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "ISP",
+            "type": "FOG_DEVICE",
+            "mips": 2000,
+            "ram": 4000,
+            "downBw": 10000
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-0-0",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-0-1",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-0-2",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-0-3",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-0-4",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-1-0",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-1-1",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-1-2",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-1-3",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-1-4",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-2-0",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-2-1",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-2-2",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-2-3",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-2-4",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-3-0",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-3-1",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-3-2",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-3-3",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-3-4",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-4-0",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-4-1",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-4-2",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-4-3",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        },
+        {
+            "level": 3,
+            "upBw": 10000,
+            "ratePerMips": 0.0,
+            "name": "BIN-4-4",
+            "type": "FOG_DEVICE",
+            "mips": 1400,
+            "ram": 1000,
+            "downBw": 270
+        }
+    ],
+    "links": [
+        {
+            "latency": 2.0,
+            "destination": "ISP",
+            "source": "AREA-GW-1"
+        },
+        {
+            "latency": 2.0,
+            "destination": "ISP",
+            "source": "AREA-GW-2"
+        },
+        {
+            "latency": 2.0,
+            "destination": "ISP",
+            "source": "AREA-GW-3"
+        },
+        {
+            "latency": 2.0,
+            "destination": "ISP",
+            "source": "AREA-GW-4"
+        },
+         {
+            "latency": 6.0,
+            "destination": "BIN-0-0",
+            "source": "ULTRASONIC-SENSOR-0-0"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-0-1",
+            "source": "ULTRASONIC-SENSOR-0-1"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-0-2",
+            "source": "ULTRASONIC-SENSOR-0-2"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-0-3",
+            "source": "ULTRASONIC-SENSOR-0-3"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-0-4",
+            "source": "ULTRASONIC-SENSOR-0-4"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-1-0",
+            "source": "ULTRASONIC-SENSOR-1-0"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-1-1",
+            "source": "ULTRASONIC-SENSOR-1-1"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-1-2",
+            "source": "ULTRASONIC-SENSOR-1-2"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-1-3",
+            "source": "ULTRASONIC-SENSOR-1-3"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-1-4",
+            "source": "ULTRASONIC-SENSOR-1-4"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-2-0",
+            "source": "ULTRASONIC-SENSOR-2-0"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-2-1",
+            "source": "ULTRASONIC-SENSOR-2-1"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-2-2",
+            "source": "ULTRASONIC-SENSOR-2-2"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-2-3",
+            "source": "ULTRASONIC-SENSOR-2-3"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-2-4",
+            "source": "ULTRASONIC-SENSOR-2-4"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-3-0",
+            "source": "ULTRASONIC-SENSOR-3-0"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-3-1",
+            "source": "ULTRASONIC-SENSOR-3-1"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-3-2",
+            "source": "ULTRASONIC-SENSOR-3-2"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-3-3",
+            "source": "ULTRASONIC-SENSOR-3-3"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-3-4",
+            "source": "ULTRASONIC-SENSOR-3-4"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-4-0",
+            "source": "ULTRASONIC-SENSOR-4-0"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-4-1",
+            "source": "ULTRASONIC-SENSOR-4-1"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-4-2",
+            "source": "ULTRASONIC-SENSOR-4-2"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-4-3",
+            "source": "ULTRASONIC-SENSOR-4-3"
+        },
+        {
+            "latency": 6.0,
+            "destination": "BIN-4-4",
+            "source": "ULTRASONIC-SENSOR-4-4"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-0-0",
+            "source": "SWITCH-0-0"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-0-1",
+            "source": "SWITCH-0-1"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-0-2",
+            "source": "SWITCH-0-2"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-0-3",
+            "source": "SWITCH-0-3"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-0-4",
+            "source": "SWITCH-0-4"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-1-0",
+            "source": "SWITCH-1-0"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-1-1",
+            "source": "SWITCH-1-1"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-1-2",
+            "source": "SWITCH-1-2"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-1-3",
+            "source": "SWITCH-1-3"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-1-4",
+            "source": "SWITCH-1-4"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-2-0",
+            "source": "SWITCH-2-0"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-2-1",
+            "source": "SWITCH-2-1"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-2-2",
+            "source": "SWITCH-2-2"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-2-3",
+            "source": "SWITCH-2-3"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-2-4",
+            "source": "SWITCH-2-4"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-3-0",
+            "source": "SWITCH-3-0"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-3-1",
+            "source": "SWITCH-3-1"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-3-2",
+            "source": "SWITCH-3-2"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-3-3",
+            "source": "SWITCH-3-3"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-3-4",
+            "source": "SWITCH-3-4"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-4-0",
+            "source": "SWITCH-4-0"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-4-1",
+            "source": "SWITCH-4-1"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-4-2",
+            "source": "SWITCH-4-2"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-4-3",
+            "source": "SWITCH-4-3"
+        },
+        {
+            "latency": 1.0,
+            "destination": "BIN-4-4",
+            "source": "SWITCH-4-4"
+        },
+        {
+            "latency": 2.0,
+            "destination": "ISP",
+            "source": "AREA-GW-0"
+        },
+        
+        {
+            "latency": 200.0,
+            "destination": "cloud",
+            "source": "ISP"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-0",
+            "source": "BIN-0-0"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-0",
+            "source": "BIN-0-1"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-0",
+            "source": "BIN-0-2"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-0",
+            "source": "BIN-0-3"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-0",
+            "source": "BIN-0-4"
+        },
+
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-1",
+            "source": "BIN-1-0"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-1",
+            "source": "BIN-1-1"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-1",
+            "source": "BIN-1-2"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-1",
+            "source": "BIN-1-3"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-1",
+            "source": "BIN-1-4"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-2",
+            "source": "BIN-2-0"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-2",
+            "source": "BIN-2-1"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-2",
+            "source": "BIN-2-2"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-2",
+            "source": "BIN-2-3"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-2",
+            "source": "BIN-2-4"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-3",
+            "source": "BIN-3-0"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-3",
+            "source": "BIN-3-1"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-3",
+            "source": "BIN-3-2"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-3",
+            "source": "BIN-3-3"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-3",
+            "source": "BIN-3-4"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-3",
+            "source": "BIN-3-5"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-4",
+            "source": "BIN-4-0"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-4",
+            "source": "BIN-4-1"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-4",
+            "source": "BIN-4-2"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-4",
+            "source": "BIN-4-3"
+        },
+        {
+            "latency": 2.0,
+            "destination": "AREA-GW-4",
+            "source": "BIN-4-4"
+        }
+    ]
+}

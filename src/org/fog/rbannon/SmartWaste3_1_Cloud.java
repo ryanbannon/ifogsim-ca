@@ -40,14 +40,14 @@ import org.fog.utils.distribution.DeterministicDistribution;
  * @author Ryan Bannon
  *
  */
-public class SmartWaste1_CodedVals_Big {
+public class SmartWaste3_1_Cloud {
 	static List<FogDevice> fogDevices = new ArrayList<FogDevice>();
 	static List<Sensor> sensors = new ArrayList<Sensor>();
 	static List<Actuator> actuators = new ArrayList<Actuator>();
 	static int numOfAreas = 5;
 	static int numOfBinsPerArea = 5;
 	
-	private static boolean CLOUD = false;
+	private static boolean CLOUD = true;
 	
 	public static void main(String[] args) {
 		Log.printLine("Starting Smart Waste Management System...");
@@ -121,7 +121,7 @@ public class SmartWaste1_CodedVals_Big {
 	}
 
 	private static FogDevice addArea(String id, int userId, String appId, int parentId){
-		FogDevice router = createFogDevice("a-"+id, 2800, 4000, 10000, 10000, 1, 0.0, 107.339, 83.4333);
+		FogDevice router = createFogDevice("a-"+id, 2800, 4000, 10000, 10000, 2, 0.0, 107.339, 83.4333);
 		fogDevices.add(router);
 		router.setUplinkLatency(2); // latency of connection between router and proxy server is 2 ms
 		for(int i=0;i<numOfBinsPerArea;i++){

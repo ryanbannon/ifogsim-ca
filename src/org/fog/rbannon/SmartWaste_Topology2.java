@@ -26,7 +26,7 @@ import org.fog.utils.TimeKeeper;
  * @author Ryan Bannon
  *
  */
-public class SmartWaste1_Topo_Small {
+public class SmartWaste_Topology2 {
 
 	static List<FogDevice> fogDevices = new ArrayList<FogDevice>();
 	private static boolean CLOUD = false;
@@ -53,7 +53,7 @@ public class SmartWaste1_Topo_Small {
 			/*
 			 * Creating the physical topology from specified JSON file
 			 */
-			PhysicalTopology physicalTopology = JsonToTopology.getPhysicalTopology(broker.getId(), appId, "topologies/SmartWaste1");
+			PhysicalTopology physicalTopology = JsonToTopology.getPhysicalTopology(broker.getId(), appId, "topologies/SmartWaste_Topology2");
 			
 			fogDevices = physicalTopology.getFogDevices();
 
